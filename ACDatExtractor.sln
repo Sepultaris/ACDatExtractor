@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACDatExtractor", "ACDatExtractor.csproj", "{29C689D7-EA5A-46E1-9688-A66A0875FF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C689D7-EA5A-46E1-9688-A66A0875FF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C689D7-EA5A-46E1-9688-A66A0875FF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C689D7-EA5A-46E1-9688-A66A0875FF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C689D7-EA5A-46E1-9688-A66A0875FF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0D5BD5-D044-49CF-8AD9-EBCE92872220}
+	EndGlobalSection
+EndGlobal
